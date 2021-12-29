@@ -1,7 +1,7 @@
 # machine-learning-text-book-DL
 
 
-##머신러닝 교과서 딥러닝 파트 study
+__머신러닝 교과서 딥러닝 파트 study__
 
 권휘성
 
